@@ -1,3 +1,9 @@
+Yildiz Technical University
+Data Structure and Algorithms 
+1. Quiz
+C Programming Language
+11/12/2020
+
 Creating matrix with sigly-linked-list
 x and y are indexes of the matrix and val is the value of the matrix at that index
 
@@ -73,6 +79,3 @@ V    V
 |    |
 V    V
 0 -> 40
-   
-C Language
-11/12/2020
