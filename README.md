@@ -4,10 +4,11 @@ Data Structure and Algorithms
 C Programming Language
 11/12/2020
 
-Creating matrix with sigly-linked-list
+#Creating matrix with sigly-linked-list
+```explanation
 x and y are indexes of the matrix and val is the value of the matrix at that index
-
-Example: 
+```
+```example
   
 x: 0
 y: 0
@@ -79,3 +80,4 @@ V    V
 |    |
 V    V
 0 -> 40
+```
